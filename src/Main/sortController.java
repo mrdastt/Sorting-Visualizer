@@ -158,6 +158,7 @@ public class sortController implements Initializable
     {
 
         //Calling disabler method to disallow user manipulation during sorting, and enabling our pause button as previously disabled
+        speed = (int) speedSlider.getValue();
         disabler(true);
         pauseSortBtn.setDisable(false);
         stopSortBtn.setDisable(false);
