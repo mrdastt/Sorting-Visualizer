@@ -22,8 +22,7 @@ user has the option to change the size of the sorted array, as well as the speed
 ### Version/Requirements:
 - Works with intellij and eclipse.
 
-#### Team Name: Team Chaos (Group 13)
-#### Team Members:
+#### Members:
 - Moussa Dastgheib (omh118)
 - Wycliff Lumumba (zoz066)
 - Khalid Farhoud (vxg648)
