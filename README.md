@@ -23,8 +23,8 @@ user has the option to change the size of the sorted array, as well as the speed
 - Works with intellij and eclipse.
 
 #### Members:
-- Moussa Dastgheib (omh118)
-- Wycliff Lumumba (zoz066)
-- Khalid Farhoud (vxg648)
-- Isabel Madrigal (jvb664)
-- Alan Weikman (vrn320)
+- Moussa Dastgheib
+- Wycliff Lumumba
+- Khalid Farhoud
+- Isabel Madrigal
+- Alan Weikman
