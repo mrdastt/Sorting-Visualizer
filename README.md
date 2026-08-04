@@ -22,9 +22,3 @@ user has the option to change the size of the sorted array, as well as the speed
 ### Version/Requirements:
 - Works with intellij and eclipse.
 
-#### Members:
-- Moussa Dastgheib
-- Wycliff Lumumba
-- Khalid Farhoud
-- Isabel Madrigal
-- Alan Weikman
